@@ -2,7 +2,7 @@
 
 Automated post-installation configuration tool for Fedora Linux (Workstation Edition).
 
-Supports Fedora Workstation 41 as of November 2024.
+Supports Fedora Workstation 42 and 43 as of December 2025.
 
 ![preview](docs/images/preview.png)
 
@@ -12,7 +12,7 @@ See [Options](docs/Options.md) for a complete list of actions Fedora Desktop Con
 
 ## Usage
 
-1. Install [Fedora Workstation 41](https://www.fedoraproject.org/en/workstation/download)
+1. Install [Fedora Workstation](https://www.fedoraproject.org/en/workstation/download)
 2. Perform initial setup (create an account, etc.), most options can be skipped or left default
 3. Once at the desktop, open a terminal and git clone this package:
     ```bash
